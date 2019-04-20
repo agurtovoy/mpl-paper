@@ -121,7 +121,7 @@
 <biblioentry id="ref.Laf00">
     <abbrev>Laf00</>
     <author><firstname>David</><surname>Lafreniere</></>
-    <title><ulink url="http://www.cuj.com/articles/2000/0005/0005f/0005f.htm?topic=articles">State Machine Design in C++</></>
+    <title>State Machine Design in C++</>
     <biblioset relation='journal'>
         <title>C/C++ User Journal</>
         <publishername>CMP Media LCC</>
@@ -141,7 +141,7 @@
 <biblioentry id="ref.Mar98">
     <abbrev>Mar98</>
     <author><firstname>Robert C.</><surname>Martin</></>
-    <title><ulink url="http://www.objectmentor.com/resources/articles/umlfsm.pdf">UML Tutorial: Finite State Machines</></>
+    <title>UML Tutorial: Finite State Machines</>
     <biblioset relation='journal'>
         <title>C++ Report</>
         <publishername>SIGS Publications Inc.</>
@@ -153,7 +153,7 @@
 <biblioentry id="ref.MPLR">
     <abbrev>MPLR</>
     <title>Boost MPL Library Reference Documentation</>
-    <bibliomisc><ulink url="http://www.mywikinet.com/mpl/ref/Table_of_Content.html"></></>
+    <bibliomisc><ulink url="http://www.boost.org/libs/mpl/doc/"></></>
 </biblioentry>
 
 <biblioentry id="ref.PRE">
@@ -210,7 +210,7 @@
 <biblioentry id="ref.vel95a">
     <abbrev>Vel95a</>
     <author><firstname>Todd</><surname>Veldhuizen</></>
-    <title><ulink url="http://osl.iu.edu/~tveldhui/papers/Template-Metaprograms/meta-art.html">Using C++ template metaprograms</></>
+    <title><ulink url="http://www.cs.rpi.edu/~musser/design/blitz/meta-art.html">Using C++ template metaprograms</></>
     <biblioset relation='journal'>
         <title>C++ Report</>
         <publishername>SIGS Publications Inc.</>
@@ -225,7 +225,7 @@
 <biblioentry id="ref.Vel95b">
     <abbrev>Vel95b</>
     <author><firstname>Todd</><surname>Veldhuizen</></>
-    <title><ulink url="http://osl.iu.edu/~tveldhui/papers/Expression-Templates/exprtmpl.html">Expression templates</></>
+    <title><ulink url="https://pdfs.semanticscholar.org/8f41/dfd51e4da3543ae27263fc1f469a05096730.pdf">Expression templates</></>
     <biblioset relation='journal'>
         <title>C++ Report</>
         <publishername>SIGS Publications Inc.</>
